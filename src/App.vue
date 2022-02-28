@@ -8,7 +8,7 @@
 <script>
 
 import MyHeader from './components/MyHeader.vue'
-import MyHeader from './components/MyMain.vue'
+import MyMain from './components/MyMain.vue'
 
 export default {
   name: 'App',
